@@ -11,16 +11,16 @@ import time
 # === Hotels setup ===
 hotels = {
     "DoubleTree by Hilton": "https://www.booking.com/hotel/mk/doubletree-by-hilton-skopje.en-gb.html",
-    #"Park Hotel & Spa": "https://www.booking.com/hotel/mk/park-skopje.en-gb.html",
-    #"Holiday Inn": "https://www.booking.com/hotel/mk/holiday-inn-skopje.en-gb.html",
+    "Park Hotel & Spa": "https://www.booking.com/hotel/mk/park-skopje.en-gb.html",
+    "Holiday Inn": "https://www.booking.com/hotel/mk/holiday-inn-skopje.en-gb.html",
     "Limak": "https://www.booking.com/hotel/mk/limak-skopje-luxury.en-gb.html",
     "Panoramika": "https://www.booking.com/hotel/mk/design-panoramika.en-gb.html",
-    #"Alexandar Palace": "https://www.booking.com/hotel/mk/aleksandar-palace-hotel-amp-spa.en-gb.html",
-    #"Alexandar II": "https://www.booking.com/hotel/mk/alexandar-ii.en-gb.html",
-    #"Best Western": "https://www.booking.com/hotel/mk/best-western-turist.en-gb.html",
-    #"Alexandar Square": "https://www.booking.com/hotel/mk/alexandar-square-boutique.en-gb.html",
-    #"Stone Bridge": "https://www.booking.com/hotel/mk/stone-bridge.en-gb.html",
-    #"Bliss": "https://www.booking.com/hotel/mk/bliss-palace-amp-spa.en-gb.html"
+    "Alexandar Palace": "https://www.booking.com/hotel/mk/aleksandar-palace-hotel-amp-spa.en-gb.html",
+    "Alexandar II": "https://www.booking.com/hotel/mk/alexandar-ii.en-gb.html",
+    "Best Western": "https://www.booking.com/hotel/mk/best-western-turist.en-gb.html",
+    "Alexandar Square": "https://www.booking.com/hotel/mk/alexandar-square-boutique.en-gb.html",
+    "Stone Bridge": "https://www.booking.com/hotel/mk/stone-bridge.en-gb.html",
+    "Bliss": "https://www.booking.com/hotel/mk/bliss-palace-amp-spa.en-gb.html"
 }
 
 # === User input for year and month with validation ===
