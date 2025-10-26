@@ -12,7 +12,7 @@ The program visits each hotel’s Booking.com page, extracts the **lowest price 
 ## 📊 What It Does
 - Retrieves the **daily lowest price** for every hotel.
 - Works with **multiple hotels in parallel** for faster results.
-- Only includes **rooms that support 2+ adults**.
+- Only includes **rooms that support at least 2 adults**.
 - Automatically skips unavailable dates.
 - Saves data in an easy-to-read `.xlsx` file (Excel format).
 
